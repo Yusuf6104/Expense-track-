@@ -1,0 +1,4 @@
+7689.0,some goods, just buy from a market
+8514.0,payment,monthly fee
+22.0,gm,hn
+55.0,food,biryani
